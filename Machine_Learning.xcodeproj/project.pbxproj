@@ -6,10 +6,31 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		9454461B1CC61C0A0041C98D /* main.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
+		9454461C1CC61C1D0041C98D /* __init__.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = __init__.py; sourceTree = "<group>"; };
+		9454461D1CC61C880041C98D /* bayes.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = bayes.py; sourceTree = "<group>"; };
+		9454461E1CC61CFB0041C98D /* log_regres.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = log_regres.py; sourceTree = "<group>"; };
+		9454461F1CC631440041C98D /* horse_colic_training.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = horse_colic_training.txt; sourceTree = "<group>"; };
+		945446201CC6316E0041C98D /* horse_colic_test.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = horse_colic_test.txt; sourceTree = "<group>"; };
+		945446211CC64D770041C98D /* svmMLiA.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = svmMLiA.py; sourceTree = "<group>"; };
+		945446221CC6556C0041C98D /* test_set.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test_set.txt; sourceTree = "<group>"; };
+		945446231CC669880041C98D /* adaboost.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = adaboost.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		945446101CC61B1A0041C98D = {
 			isa = PBXGroup;
 			children = (
+				945446231CC669880041C98D /* adaboost.py */,
+				945446221CC6556C0041C98D /* test_set.txt */,
+				945446211CC64D770041C98D /* svmMLiA.py */,
+				945446201CC6316E0041C98D /* horse_colic_test.txt */,
+				9454461F1CC631440041C98D /* horse_colic_training.txt */,
+				9454461E1CC61CFB0041C98D /* log_regres.py */,
+				9454461D1CC61C880041C98D /* bayes.py */,
+				9454461B1CC61C0A0041C98D /* main.py */,
+				9454461C1CC61C1D0041C98D /* __init__.py */,
 			);
 			sourceTree = "<group>";
 		};
