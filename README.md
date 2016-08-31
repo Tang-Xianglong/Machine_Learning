@@ -6,5 +6,5 @@
 2.  逻辑斯特回归：log_regres.py    
 3.  支撑向量机：svmMLiA.py    
 4.  线性回归：regression.py    
-5.  boost算法：adaboost.py
+5.  boost算法：adaboost.py    
 6.  回归树：reg_trees.py
